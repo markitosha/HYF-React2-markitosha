@@ -13,9 +13,11 @@ Next.js specific staff, so let's start with questions about React.
 - [Fun reading about how browsers work](https://gist.github.com/nishantmendiratta/db09531f80803465da36f0d43c3e58ac)
 
 **What are minuses?**
+
 1. 
 
 **When is it fine?**
+
 1. 
 
 ### CSR (Client Side Rendering)
@@ -42,9 +44,11 @@ which is not good for our demonstration._
 > Please, use "production" server when you want to check how your app will behave in production!
 
 **What are minuses?**
+
 1. 
 
 **When is it fine?**
+
 1. 
 
 ### ~~SSG (Static Site Generation)~~ Static routes
@@ -57,9 +61,11 @@ which is not good for our demonstration._
 - All pages are generated at build time (add `console.log` to see that)
 
 **What are minuses?**
+
 1.
 
 **When is it fine?**
+
 1. 
 
 ### ~~SSR (Server Side Rendering)~~ Dynamic routes
@@ -164,6 +170,7 @@ https://nextjs.org/docs/app/building-your-application/routing/defining-routes
   - Other libraries (like D3.js) that require direct DOM manipulation
 
 **Use cases?**
+
 1. 
 
 ## Component Libraries
